@@ -1,2 +1,4 @@
 # My-Data-Science-JupiterNotebook3
-BLAbla bla!
+DB notebook.
+
+Ivan Fomin
